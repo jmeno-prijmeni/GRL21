@@ -6,7 +6,7 @@
     font-family: Arial, Helvetica, sans-serif;
   }
   
-  /* Style the header */
+
   .header {
     background-color: rgb(102, 102, 102);
     padding: 30px;
@@ -16,28 +16,28 @@
   
   }
   
-  /* Container for flexboxes */
+  
   section {
     display: -webkit-flex;
     display: flex;
   }
   
-  /* Style the navigation menu */
+  
   nav {
     -webkit-flex: 1;
     -ms-flex: 1;
     flex: 1;
-    background: #ccc;
+    background: rgb(138, 25, 25);
     padding: 20px;
   }
   
-  /* Style the list inside the menu */
+
   nav ul {
     list-style-type: none;
     padding: 0;
   }
   
-  /* Style the content */
+  
   article {
     -webkit-flex: 3;
     -ms-flex: 3;
@@ -46,7 +46,7 @@
     padding: 10px;
   }
   
-  /* Style the footer */
+  
   footer {
     background-color: #777;
     padding: 10px;
@@ -54,7 +54,7 @@
     color: white;
   }
   
-  /* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+  
   @media (max-width: 600px) {
     section {
       -webkit-flex-direction: column;
@@ -64,6 +64,9 @@
   .topnav {
     background-color: #333;
     overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
   }
   .topnav a {
     float: left;
@@ -80,4 +83,9 @@
   .topnav a.active {
     background-color: #04AA6D;
     color: white;
+  }
+  .main {
+    padding: 16px;
+    margin-top: 30px;
+    height: 1500px;
   }
