@@ -88,6 +88,11 @@
   }
   .main {
     padding: 16px;
-    margin-top: 30px;
-    height: 1500px;
+    height: 500px;
+  }
+
+  .ourteam{
+    background: silver;
+    padding: 1em;
+    text-align: center;
   }
