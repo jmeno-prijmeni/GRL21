@@ -10,7 +10,7 @@ MP - Může počkat XD
 * MP Zdroje(stáhnout jako dokument)
 * Vymyslet název hry
 * Vymyslet UI (v rámci propagace knížky pro mládež)(zkontrolovat ux)
-* MP Odkaz goodreads?
+* MP Odkaz goodreads
 * Vymyslet title
 * MP Trochu si vymyslet prezentaci 
 * Upravit CSS je v tom bordel

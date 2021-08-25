@@ -169,7 +169,7 @@
   .basictext{
    font-size: 20px;
   }
-.hrabutton{
+ .hrabutton{
   text-align:center;
  }
   .button {
@@ -193,25 +193,33 @@
     background-color: rgb(43, 75, 40);
     color: white;
   }
-#goodreads{
+ #goodreads{
   font-size: 17px;
   border-radius: 15px;
-}
-.knihy{
+ }
+ .knihy{
  text-align: center;
  flex-direction: row;
+ }
+ .volby{
+  flex-direction:unset;
+ }
 
-}
+ #hrat2{
+  font-size: 20px;
+  border-radius: 25px;
+ }
 
 
-#hrat{
+ #hrat{
   font-size: 40px;
   border-radius: 25px;
-}
+ }
 
-
-
-  .hra {
-    padding: 1em;
-    text-align: center;
+ .hra {
+  padding: 1em;
+  text-align: center;
+  }
+ .section{
+  background-color:rgb(92, 126, 89)
   }
