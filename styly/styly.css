@@ -10,11 +10,13 @@
   
 
   .header {
-    background-color: rgb(102, 102, 102);
     padding: 30px;
     text-align: center;
     font-size: 35px;
     color: white;
+    background-image: url("../obrazky/posibl\ hedr\ 2.1.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
   
   }
   
@@ -93,7 +95,6 @@
   }
   .main {
     padding: 16px;
-    height: 500px;
   }
 
   .ourteam{

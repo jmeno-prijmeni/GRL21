@@ -51,3 +51,10 @@ Kolik je hodin?
 <br/>
 <span id="hodiny">XXX</span> <br/>
 Čas jsem ukázal:<span id= "pokusCislo">0</span>
+
+
+Header barva předtim
+background-color: rgb(102, 102, 102); 
+
+
+height: 500px
