@@ -47,17 +47,10 @@
     background-image: url("../obrazky/snad 2.jpg") ;
   }
   
-
-  nav ul {
-    list-style-type: none;
-    padding: 0;
-  }
-  
-  
   article {
-    -webkit-flex: 4;
-    -ms-flex: 4;
-    flex: 4;
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
     background-color: rgb(241, 241, 241);
     padding: 10px;
   }
