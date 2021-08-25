@@ -1,1 +1,1 @@
-console.log ("Helou vrld")
+console.log ("Vítej v naší hře")
