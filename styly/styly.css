@@ -35,9 +35,11 @@
     flex: 1;
     padding: 50px;
   }
+
   .bush1 {
     background-image: url("../obrazky/snad.jpg") ;
   }
+  
   .bush2{
     background-image: url("../obrazky/snad 2.jpg") ;
   }
@@ -72,6 +74,7 @@
       flex-direction: column;
     }
   }
+
   .topnav {
     background-color: rgb(43, 75, 40);
     overflow: hidden;
@@ -80,6 +83,7 @@
     width: 100%;
     z-index: 10;
   }
+
   .topnav a {
     float: left;
     color: #f2f2f2;
@@ -88,14 +92,17 @@
     text-decoration: none;
     font-size: 17px;
   }
+
   .topnav a:hover {
     background-color: #ddd;
     color: black;
   }
+
   .topnav a.active {
     background-color: #5c7e59;
     color: white;
   }
+
   .main {
     padding: 16px;
   }
