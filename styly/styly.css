@@ -7,6 +7,7 @@
   
   body {
     font-family: 'Crimson Pro', serif;
+    margin: 0px;
   }
   
 
@@ -106,6 +107,10 @@
 
   .main {
     padding: 16px;
+  }
+
+  #oknize {
+    padding: 2em;
   }
 
   .ourteam{
