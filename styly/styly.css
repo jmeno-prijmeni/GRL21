@@ -179,14 +179,12 @@
     text-align:center;
     text-decoration: none;
     display: inline-block;
-    font-size: 24px;
     margin-bottom: 5px;
     transition-duration: 0.4s;
     cursor: pointer;
     background-color: white; 
     color: black; 
     border: 2px solid rgb(43, 75, 40);
-    border-radius: 25px;
     position:relative;
     margin-top: 50px;
   }
@@ -195,3 +193,20 @@
     background-color: rgb(43, 75, 40);
     color: white;
   }
+#goodreads{
+  font-size: 17px;
+  border-radius: 15px;
+}
+.knihy{
+ text-align: center;
+ flex-direction: row;
+
+}
+
+
+#hrat{
+  font-size: 40px;
+  border-radius: 25px;
+}
+
+
