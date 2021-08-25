@@ -1,4 +1,25 @@
-ahoj lucko tady si můžeme psát jupí
+
+MP - Může počkat XD
+* Mapa příběhu
+* MP (Mapa (obrázek)na každou stranu)
+* Příběhy
+* Defaultní stránka
+* MP Popis náš tým
+* Úvod text
+* Tutorial (další část, top nav)
+* MP Zdroje(stáhnout jako dokument)
+* Vymyslet název hry
+* Vymyslet UI (v rámci propagace knížky pro mládež)(zkontrolovat ux)
+* MP Odkaz goodreads?
+* Vymyslet title
+* MP Trochu si vymyslet prezentaci 
+* Upravit CSS je v tom bordel
+
+
+Tohle jdu teď dělat já
+* Barva hraničář
+* Button
+
 
 console.log ("Helou vrld")
 
@@ -53,13 +74,3 @@ Kolik je hodin?
 Čas jsem ukázal:<span id= "pokusCislo">0</span>
 
 
-Header barva předtim
-background-color: rgb(102, 102, 102); 
-
-
-height: 500px
-
-Arial, Helvetica, sans-serif
-
- background-image: url("../obrazky/snad 2.jpg");
- background-image: url("../obrazky/snad.jpg");
