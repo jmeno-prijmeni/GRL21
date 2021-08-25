@@ -1,1 +1,13 @@
 ahoj lucko tady si můžeme psát jupí
+
+console.log ("Helou vrld")
+
+let(neco)
+
+function funkce(p1,p2) {
+    return p1 + p2
+}
+
+function ahoj(jmeno) {
+    alert("Ahoj" + jmeno);
+}
