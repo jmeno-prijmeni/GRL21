@@ -31,31 +31,20 @@
     display: flex;
   }
   
-  
-  nav {
-    -webkit-flex: 1;
-    -ms-flex: 1;
-    flex: 1;
-    padding: 50px;
-  }
 
-  .bush1 {
-    background-color: rgb(92, 126, 89);
-  }
-  
-  .bush2{
-    background-color: rgb(92, 126, 89);
-  }
   
   article {
     -webkit-flex: 10;
     -ms-flex: 10;
     flex: 10;
-    background-color: rgb(241, 241, 241);
+    background-color: rgb(92, 126, 89);
     padding: 10px;
     border-bottom-style:solid;
     border-color: rgb(92, 126, 89);
     border-width: 20px;
+    padding: 2em;
+    padding-left: 4em;
+    padding-right: 4em;
   }
   
   
@@ -102,9 +91,6 @@
     color: rgb(255, 255, 255);
   }
 
-  .main {
-    padding: 16px;
-  }
 
   #oknize {
     padding: 2em;
