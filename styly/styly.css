@@ -29,8 +29,13 @@
     -webkit-flex: 1;
     -ms-flex: 1;
     flex: 1;
-    background-image: url("../obrazky/bush.jpg");
     padding: 50px;
+  }
+  .bush1 {
+    background-image: url("../obrazky/snad.jpg") ;
+  }
+  .bush2{
+    background-image: url("../obrazky/snad 2.jpg") ;
   }
   
 
