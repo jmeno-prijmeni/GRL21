@@ -53,6 +53,9 @@
     flex: 10;
     background-color: rgb(241, 241, 241);
     padding: 10px;
+    border-bottom-style:solid;
+    border-color: rgb(92, 126, 89);
+    border-width: 20px;
   }
   
   
