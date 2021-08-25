@@ -64,7 +64,7 @@
     }
   }
   .topnav {
-    background-color: rgb(58, 71, 56);
+    background-color: rgb(43, 75, 40);
     overflow: hidden;
     position: fixed;
     top: 0;
@@ -83,7 +83,7 @@
     color: black;
   }
   .topnav a.active {
-    background-color: #dd7b83;
+    background-color: #5c7e59;
     color: white;
   }
   .main {
