@@ -105,6 +105,8 @@
 
   #oknize {
     padding: 2em;
+    padding-left: 4em;
+    padding-right: 4em;
   }
 
   .ourteam{
@@ -173,4 +175,8 @@
 
   .odkaz{
     color: rgb(255, 255, 255);
+  }
+
+  .basictext{
+   font-size: 20px;
   }
