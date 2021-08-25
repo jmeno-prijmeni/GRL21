@@ -17,7 +17,9 @@
     background-image: url("../obrazky/posibl\ hedr\ 2.1.jpg");
     background-size:cover;
     background-repeat: no-repeat;
-  
+    border-bottom-style:solid;
+    border-color: #5c7e59;
+    border-width: 8px;
   }
   
   
