@@ -155,3 +155,9 @@
     margin-right: auto;
   }
   
+  @media (max-width: 800px) {
+    .break {
+     flex-basis: 100%;
+     height: 30px;
+    }
+  }
