@@ -191,15 +191,15 @@
     text-align:center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
+    font-size: 24px;
+    margin-bottom: 15px;
     transition-duration: 0.4s;
     cursor: pointer;
     background-color: white; 
     color: black; 
     border: 2px solid #4CAF50;
-    margin-left: 50%;
-    margin-right: 50%;
+    margin-left: 43.5%;
+    margin-right: 43.5%;
   }
   
   .button:hover {
