@@ -13,12 +13,12 @@
     padding: 30px;
     text-align: center;
     font-size: 35px;
-    color: white;
+    color: rgb(255, 255, 255);
     background-image: url("../obrazky/posibl\ hedr\ 2.1.jpg");
     background-size:cover;
     background-repeat: no-repeat;
     border-bottom-style:solid;
-    border-color: #5c7e59;
+    border-color: rgb(92, 126, 89);
     border-width: 8px;
   }
   
@@ -55,16 +55,16 @@
     -webkit-flex: 4;
     -ms-flex: 4;
     flex: 4;
-    background-color: #f1f1f1;
+    background-color: rgb(241, 241, 241);
     padding: 10px;
   }
   
   
   footer {
-    background-color: #777;
+    background-color: rgb(43, 75, 40);
     padding: 10px;
     text-align: center;
-    color: white;
+    color: rgb(255, 255, 255);
   }
   
   
@@ -86,7 +86,7 @@
 
   .topnav a {
     float: left;
-    color: #f2f2f2;
+    color: rgb(242, 242, 242);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -94,13 +94,13 @@
   }
 
   .topnav a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: rgb(221, 221, 221);
+    color: rgb(0, 0, 0);
   }
 
   .topnav a.active {
-    background-color: #5c7e59;
-    color: white;
+    background-color: rgb(92, 126, 89);
+    color: rgb(255, 255, 255);
   }
 
   .main {
@@ -108,7 +108,7 @@
   }
 
   .ourteam{
-    background: silver;
+    background-color: rgb(92, 126, 89);
     padding: 1em;
     text-align: center;
   }
@@ -136,7 +136,7 @@
     right: 0;
     opacity: 0;
     transition: .5s ease;
-    background-color: #5c7e59;
+    background-color: rgb(92, 126, 89);
     text-align: center;
   }
   
@@ -145,7 +145,7 @@
   }
   
   .imgtext {
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 20px;
     position: absolute;
     top: 50%;
