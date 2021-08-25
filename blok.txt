@@ -15,3 +15,39 @@ function ahoj(jmeno) {
 let jmeno = "Lucko"
 
 ahoj(jmeno)
+
+console.log ("Helou vrld")
+
+function ahoj(jmeno) {
+    alert("Ahoj " + jmeno);
+}
+
+let aktualniCas = new Date();
+aktualniCas.getDate
+
+console.log (aktualniCas)
+
+let pokusu= 0
+
+function ukazCas() {
+    pokusu = pokusu + 1;
+    let aktualniCas = new Date();
+
+    let hodin = "Hodin:" + aktualniCas.getHours();
+    let minut = "Minut:" + aktualniCas.getMinutes();
+    let vterin = "Vteřin:" + aktualniCas.getSeconds();
+
+    let spojenyCas = hodin + '<br/>' + minut + '<br/>' + vterin;
+
+    document.getElementById("hodiny").innerHTML = spojenyCas;
+    document.getElementById("pokusCislo").innerHTML = pokusu;
+}
+
+
+<button onclick="ahoj('čau grl');" >nazdaar</button>
+<br/>
+Kolik je hodin?
+<button onclick="ukazCas()" >Ukaž čas</button>
+<br/>
+<span id="hodiny">XXX</span> <br/>
+Čas jsem ukázal:<span id= "pokusCislo">0</span>
