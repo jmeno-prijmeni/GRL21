@@ -60,3 +60,6 @@ background-color: rgb(102, 102, 102);
 height: 500px
 
 Arial, Helvetica, sans-serif
+
+ background-image: url("../obrazky/snad 2.jpg");
+ background-image: url("../obrazky/snad.jpg");
