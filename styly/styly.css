@@ -31,7 +31,6 @@
     flex: 1;
     background: rgb(138, 25, 25);
     padding: 20px;
-    width: 20px;
   }
   
 
@@ -42,9 +41,9 @@
   
   
   article {
-    -webkit-flex: 3;
-    -ms-flex: 3;
-    flex: 3;
+    -webkit-flex: 4;
+    -ms-flex: 4;
+    flex: 4;
     background-color: #f1f1f1;
     padding: 10px;
   }
