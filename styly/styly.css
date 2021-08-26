@@ -172,6 +172,10 @@
   .basictext{
    font-size: 20px;
   }
+
+  .smalltext{
+    font-size: 18px;
+  }
  .hrabutton{
   text-align:center;
  }
