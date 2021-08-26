@@ -1,17 +1,12 @@
 
 MP - Může počkat XD
 * Mapa příběhu
-* MP (Mapa (obrázek)na každou stranu)
 * Příběhy
-* Defaultní stránka
 * MP Popis náš tým
 * Úvod text
 * Tutorial (další část, top nav)
 * MP Zdroje(stáhnout jako dokument)
-* Vymyslet název hry
 * Vymyslet UI (v rámci propagace knížky pro mládež)(zkontrolovat ux)
-* MP Odkaz goodreads
-* Vymyslet title
 * MP Trochu si vymyslet prezentaci 
 * Upravit CSS je v tom bordel
 
