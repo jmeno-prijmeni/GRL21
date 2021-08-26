@@ -68,5 +68,27 @@ Kolik je hodin?
 
 
 
+ <div class="hra">
+        <a href="XXX.html"><buttontype="button" class="button2" id="hrat2">Název volby</button></a>
+        <a href="XXX.html"><buttontype="button" class="button2" id="hrat2">Název volby</button></a>
+        <a href="XXX.html"><buttontype="button" class="button2" id="hrat2">Název volby</button></a>
+      
+      </div>
 
+
+      <div class= "hra">
+        <h1>Název</h1>
+     <p class="basictext">Text příběhu</p>
+     <div class="volby">
+       <div class="hrabutton" id="hra">      
+        <a href="XXX.html"><buttontype="button" class="button2" id="hrat2">Volba 1</button></a></div>
+
+       <div class="hrabutton" id="hra">
+        <a href="XXX.html"><buttontype="button" class="button2" id="hrat2">Volba 2</button></a></div>
+
+       <div class="hrabutton" id="hra">
+        <a href="XXX.html"><buttontype="button" class="button2" id="hrat2">Volba 3</button></a></div></div>
+    </div >
+
+      rgb(122, 145, 120)
 
