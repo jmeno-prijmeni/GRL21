@@ -1,7 +1,6 @@
 
 MP - Může počkat XD
 
-* MP Popis náš tým
 * Úvod text
 * Tutorial (další část, top nav)
 * MP Zdroje(stáhnout jako dokument)
