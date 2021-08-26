@@ -1,7 +1,6 @@
 
 MP - Může počkat XD
-* Mapa příběhu
-* Příběhy
+
 * MP Popis náš tým
 * Úvod text
 * Tutorial (další část, top nav)
