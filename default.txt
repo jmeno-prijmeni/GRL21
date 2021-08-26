@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Název</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet"
+       href="styly/styly.css">
+      
+    <script src="js/script.js"></script>
+</head>
+<body class="section">
+    <div id= "hra">
+        <h1>Název</h1>
+     <p class="basictext">Text příběhu</p>
+     <div class="volby">
+        <div class="hrabutton" id="hra">      
+         <a href="XXX.html"><buttontype="button" class="button2" id="hrat2">Volba 1</button></a></div>
+ 
+        <div class="hrabutton" id="hra">
+         <a href="XXX.html"><buttontype="button" class="button2" id="hrat2">Volba 2</button></a></div>
+ 
+        <div class="hrabutton" id="hra">
+         <a href="XXX.html"><buttontype="button" class="button2" id="hrat2">Volba 3</button></a></div></div>
+         
+         <div class="hrabutton" id="hra">
+            <a href="index.html"><buttontype="button" class="button3" id="zpet">Zpět na úvodní stranu</button></a></div></div>
+    
+        </div >
+ 
+
+</body>
+</html>
