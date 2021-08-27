@@ -8,6 +8,7 @@
   body {
     font-family: 'Crimson Pro', serif;
     margin: 0px;
+    overflow: scroll;
   }
   
 
@@ -269,4 +270,26 @@
 
 .ukazka{
   font-style: italic;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px rgb(216, 216, 216); 
+  border-radius: 6px;
+
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+
+ 
+
+::-webkit-scrollbar-thumb {
+  background: rgb(43, 75, 40); 
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(22, 39, 21)000; 
 }
